@@ -1,0 +1,7 @@
+{
+  "name": "Be4techBand",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

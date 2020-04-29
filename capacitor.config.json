@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "Be4techBand",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}

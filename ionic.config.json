@@ -1,7 +1,8 @@
 {
   "name": "Be4techBand",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
